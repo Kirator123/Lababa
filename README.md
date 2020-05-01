@@ -8,6 +8,7 @@
 ----------
 -การทดลองที่ 3: การประยุกต์ใช้ Microcontroller
 [Experiment3](https://drive.google.com/open?id=1D4itArkYpDNhVi7ygPEzN9qGbpiRrmox)
+[คลิป](https://drive.google.com/open?id=102lBUNkSSj4v5frM37JtvkU1F2z9YlKa)
 ----------
 -การทดลองที่ 4: การFork และ การสมัคร github
 [Experiment4](https://drive.google.com/open?id=1IrQMYpY15gTZJvYM61FUl92BVHD3nO9n)
